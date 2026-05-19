@@ -25,7 +25,7 @@
 
 # 📊 Estatísticas
 
-![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmateus-dev&show_icons=true&theme=tokyonight)
+![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmateus-dev&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmateus-dev&layout=compact&theme=tokyonight)
 
