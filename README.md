@@ -1,4 +1,3 @@
-# luanm
 # Olá! Eu sou Luan 👋
 
 🎓 Estudante de Sistemas de Informação  
