@@ -1,7 +1,7 @@
 # Olá! Eu sou Luan 👋
 
 🎓 Estudante de Sistemas de Informação  
-💻 Aprendendo Python, SQL e Git/GitHub  
+💻 Aprendendo Python, excel, GitHub  
 🚀 Em busca de estágio na área de TI  
 📚 Interessado em tecnologia, desenvolvimento e automação  
 
